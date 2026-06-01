@@ -32,4 +32,4 @@ print("d:", d)
 <img width="1105" height="476" alt="Screenshot 2026-06-01 103315" src="https://github.com/user-attachments/assets/1b0125fe-3632-4226-a45e-8420922e79c9" />
 
 ## Result
-Thus, the given program successfully determines whether the entered number is even or odd and displays the corresponding output.
+The program evaluates the given Boolean expressions and arithmetic operations involving Boolean values, stores the results in variables a, b, c, and d, and displays them with the specified labels.
