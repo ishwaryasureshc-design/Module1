@@ -12,8 +12,20 @@ To write a Python program that reads two integers, creates a complex number usin
 6. Print the imaginary part of `x` using `x.imag`.
 
 ## 💻 Program
-Add Code Here
+```
+a = int(input("Enter real part: "))
+b = int(input("Enter imaginary part: "))
+
+x = complex(a, b)
+
+print("Complex number:", x)
+print("Real part:", x.real)
+print("Imaginary part:", x.imag)
+```
 
 ## Output
 
+<img width="1344" height="626" alt="Screenshot 2026-06-01 104054" src="https://github.com/user-attachments/assets/5af87524-0d88-4649-8c56-a3f3773cbc56" />
+
 ## Result
+Thus, the given program successfully determines whether the entered number is even or odd and displays the corresponding output.
