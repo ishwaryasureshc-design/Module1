@@ -28,4 +28,4 @@ print("Imaginary part:", x.imag)
 <img width="1344" height="626" alt="Screenshot 2026-06-01 104054" src="https://github.com/user-attachments/assets/5af87524-0d88-4649-8c56-a3f3773cbc56" />
 
 ## Result
-Thus, the given program successfully determines whether the entered number is even or odd and displays the corresponding output.
+Thus, the program successfully creates a complex number and displays its real and imaginary parts.
